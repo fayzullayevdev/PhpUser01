@@ -1,12 +1,12 @@
 <h1 align="center">Shakhboz Fayzullayev Php developer</h1>
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi I'm Shakhboz Fayzullayev <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am  Shakhboz Fayzullayev. I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-shahboz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahboz-100845186/)](https://www.linkedin.com/in/shahboz-100845186/) 
+[![Linkedin Badge](https://img.shields.io/badge/-shakhboz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shakhboz-100845186/)](https://www.linkedin.com/in/shakhboz-100845186/) 
 [![Instagram Badge](https://img.shields.io/badge/-@__.shahboz.___-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/__.shahboz.___)
 [![Telegram Badge](https://img.shields.io/badge/@shakhbozf-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/shakhbozf)](https://t.me/shakhbozf) 
 
