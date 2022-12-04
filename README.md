@@ -14,7 +14,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Laravel 
-- :muscle: Do Bodybuilding & Calisthenics
+- :muscle: Do Calisthenics
 - :rocket: Always ready to collaborate for Dev Experiments
 
 ## ⚡ Technologies
