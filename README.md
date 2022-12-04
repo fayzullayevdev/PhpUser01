@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Linkedin Badge](https://img.shields.io/badge/-shakhboz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shakhboz-fayzullayev-0a5352258/)](https://www.linkedin.com/in/shakhboz-fayzullayev-0a5352258/) 
 [![Instagram Badge](https://img.shields.io/badge/-shakhboz-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/__.shahboz.___)
-[![Telegram Badge](https://img.shields.io/badge/shakhboz-tm-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/shakhbozf)](https://t.me/shakhbozf) 
+[![Telegram Badge](https://img.shields.io/badge/shakhbozfayzullayev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/shakhbozf)](https://t.me/shakhbozf) 
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
